@@ -1,4 +1,4 @@
-import express, { Request, Response } from 'express';
+import express  from 'express';
 import { envs } from './config';
 import { GithubController } from './presentation/github/controller';
 
